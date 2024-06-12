@@ -1,7 +1,6 @@
 -- ======================================================================
 -- SQL Script for Bank Loan Data Analysis
 -- Author: Binh Pham
--- Date: May 20th, 2024
 -- Description: This script contains queries for analyzing bank loan data
 -- to assess risk, support decision-making, and derive insights for portfolio
 -- management. The results will be used to create visualizations in Power BI.
