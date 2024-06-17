@@ -2,17 +2,17 @@
 
 This repository contains the SQL script and CSV file used for the "Financial Loan Analysis" project, which provides a comprehensive analysis of bank loan data to assess risk and support decision-making.
 
-Technologies Used:<br />
-- SQL Server: Utilized for executing advanced SQL queries to manipulate and analyze loan data.<br />
-- SQL Features Employed<br />
-- Data Manipulation: SELECT, GROUP BY, ORDER BY, and DISTINCT<br />
-- Date and Time Functions: DATENAME, DATEPART, MONTH, HOUR, QUARTER, DAY<br />
-- Conversion and Formatting: CAST, DECIMAL<br />
-- Advanced SQL Constructs: Common Table Expressions (CTEs), Window Functions (PARTITION)<br />
+### Technologies Used
+- **SQL Server**: Utilized for executing advanced SQL queries to manipulate and analyze loan data.
+- **SQL Features Employed**
+  - Data Manipulation: SELECT, GROUP BY, ORDER BY, and DISTINCT
+  - Date and Time Functions: DATENAME, DATEPART, MONTH, HOUR, QUARTER, DAY
+  - Conversion and Formatting: CAST, DECIMAL
+  - Advanced SQL Constructs: Common Table Expressions (CTEs), Window Functions (PARTITION)
 
-Repository Contents:<br />
-- BankLoanAnalysis.sql - SQL script for the data analysis.<br />
-- LoanData.csv - CSV file containing the raw loan data used in the analysis.<br />
+### Repository Contents
+- **BankLoanAnalysis.sql** - SQL script for the data analysis.
+- **LoanData.csv** - CSV file containing the raw loan data used in the analysis.
 
-Additional Resources<br />
-- For a visual representation of the analysis, visit the Tableau dashboard [here]([url](https://public.tableau.com/app/profile/binh.pham7244/viz/FinancialLoan_17185917690920/SUMMARY?publish=yes)).<br />
+### Additional Resources
+- For a visual representation of the analysis, visit the Tableau dashboard [here](https://public.tableau.com/app/profile/binh.pham7244/viz/FinancialLoan_17185917690920/SUMMARY?publish=yes).
