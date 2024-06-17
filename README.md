@@ -15,4 +15,4 @@ Repository Contents:<br />
 - LoanData.csv - CSV file containing the raw loan data used in the analysis.<br />
 
 Additional Resources<br />
-- For a visual representation of the analysis, visit the Power BI dashboard here.<br />
+- For a visual representation of the analysis, visit the Tableau dashboard [here]([url](https://public.tableau.com/app/profile/binh.pham7244/viz/FinancialLoan_17185917690920/SUMMARY?publish=yes)).<br />
