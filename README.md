@@ -1,7 +1,7 @@
-# Bank Loan Data Analysis Using SQL & Tableau
+# Financial Loan Data Analysis Using SQL & Tableau
 
 Introduction:
-The Bank Loan Portfolio Analysis project aims to provide comprehensive insights into the bank's loan portfolio using SQL queries and Tableau visualization tools. By leveraging these technologies, we seek to enhance decision-making processes, mitigate risks, and optimize loan management strategies. For a visual representation of the analysis, visit the Tableau dashboard [here](https://public.tableau.com/app/profile/binh.pham7244/viz/FinancialLoan_17185917690920/SUMMARY?publish=yes).
+The Financial Loan Analysis project aims to provide comprehensive insights into the bank's loan portfolio using SQL queries and Tableau visualization tools. By leveraging these technologies, we seek to enhance decision-making processes, mitigate risks, and optimize loan management strategies. For a visual representation of the analysis, visit the Tableau dashboard [here](https://public.tableau.com/app/profile/binh.pham7244/viz/FinancialLoan_17185917690920/SUMMARY?publish=yes).
 
 Project Objectives:
 
